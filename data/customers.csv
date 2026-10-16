@@ -1,0 +1,6 @@
+customer_id,customer_name,email,city,created_at
+1,Arun Kumar,arun@example.com,Coimbatore,2026-01-05
+2,Divya Raj,divya@example.com,Chennai,2026-01-08
+3,Karthik S,karthik@example.com,Madurai,2026-01-12
+4,Priya M,priya@example.com,Coimbatore,2026-02-02
+5,Vijay Anand,vijay@example.com,Salem,2026-02-10
