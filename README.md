@@ -22,7 +22,7 @@ A Python-based business analytics project that analyzes sales, customers, and in
 * Streamlit
 * Plotly
 * FastAPI
-* Scikit-learn
+
 
 ## Project Structure
 
